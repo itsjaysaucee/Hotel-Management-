@@ -4,4 +4,12 @@
 Our RESTful API is an Hotel Management System with the following resources : Users, Rooms, and Booking.
 
 
-# THE TEAMS 
+# THE TEAMS
+
+Project Manager
+
+System Analyst
+
+Software Engineer
+
+Technical Writer
